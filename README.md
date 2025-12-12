@@ -9,4 +9,4 @@ O decorrer das aulas me mostrou que, por mais que programação não seja uma á
 
 **Observação:**  
 Um dos melhores professores que já tive! Parabéns, Lucas! 👏
-[Google]([https://www.google.com](https://www.instagram.com/p/DFyMMPJtoqw/))
+[Google](https://www.instagram.com/p/DFyMMPJtoqw/)
