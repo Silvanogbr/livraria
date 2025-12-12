@@ -6,7 +6,6 @@ public class Pessoa {
     private String nome;
     private int idade;
     private String sexo;
-    private String estadoAt;
 
     //metodo personalizado
     public void fazerNiver(){
@@ -14,11 +13,10 @@ public class Pessoa {
     }
 
     //metodo construtor
-    public Pessoa(String nome, int idade, String sexo, String estadoAt) {
+    public Pessoa(String nome, int idade, String sexo) {
         this.nome = nome;
         this.idade = idade;
         this.sexo = sexo;
-        this.estadoAt = estadoAt;
     }
 
     /* metodos especiais (Getters e Setters) */
@@ -41,14 +39,4 @@ public class Pessoa {
     public void setSexo(String sexo) {
         this.sexo = sexo;
     }
-
-    public String getEstadoAt() {
-        return estadoAt;
-    }
-
-    public void setEstadoAt(String estadoAt) {
-        this.estadoAt = estadoAt;
-    }
 }
-
-

@@ -25,7 +25,6 @@ public class Livro implements Publicacao{
                 "\nLeitor: " + leitor.getNome() +
                 "\nSexo do leitor: " + leitor.getSexo() +
                 "\nIdade do leitor: " + leitor.getIdade() +
-                "\nEstado atual da lenda: " + leitor.getEstadoAt() +
                 "\n💪🏿" +
                 "\n"+
                 "\n==================================================================================";

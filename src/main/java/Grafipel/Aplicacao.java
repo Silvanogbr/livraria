@@ -7,9 +7,9 @@ public class Aplicacao {
         Pessoa[]p = new Pessoa[3];
         Livro[]l = new Livro[3];
 
-        p[0] = new Pessoa("Lais", 17, "Feminino","Boba");
-        p[1] = new Pessoa("Bruno", 17, "Macho","Bobão");
-        p[2] = new Pessoa("Gabriel Simão", 17, "Macho Alpha","ULTIMO HEROI DA TERRA");
+        p[0] = new Pessoa("Lais", 17, "Feminino");
+        p[1] = new Pessoa("Bruno", 17, "Macho");
+        p[2] = new Pessoa("Gabriel Simão", 17, "Macho Alpha");
 
         l[0] = new Livro("Verity", "Colleen Hoover", 320, p[0]);
         l[1] = new Livro("Jurassic Park", "Michel Crichton",528, p[1]);
